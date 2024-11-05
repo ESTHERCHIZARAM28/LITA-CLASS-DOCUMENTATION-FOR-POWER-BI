@@ -96,6 +96,8 @@ Average Age = AVERAGE('HR data'[Age])
 ![image](https://github.com/user-attachments/assets/71aa46a4-79b1-4f22-8226-c4e23ec6fb4e)
 
 
+##### FILTER BY EDUCATAIONAL FIELD
+
 
 
 
