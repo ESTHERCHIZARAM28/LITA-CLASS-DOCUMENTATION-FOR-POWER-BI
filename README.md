@@ -112,6 +112,11 @@ Average Age = AVERAGE('HR data'[Age])
 
 - MEDICALS
 
+![image](https://github.com/user-attachments/assets/d1b273ed-6c53-4db3-b14c-6c531df7731a)
+
+- OTHERS
+
+
 
 
 
