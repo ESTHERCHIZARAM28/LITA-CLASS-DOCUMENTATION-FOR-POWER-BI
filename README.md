@@ -91,4 +91,9 @@ Average Age = AVERAGE('HR data'[Age])
 
 - HR DASHBOARD
 
+![image](https://github.com/user-attachments/assets/a7ebe032-9352-4f38-bebe-af5c56bfad75)
+
+
+
+
 
