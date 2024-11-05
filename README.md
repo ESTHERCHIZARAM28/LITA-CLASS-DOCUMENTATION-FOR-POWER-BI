@@ -2,7 +2,7 @@
 
 ----
 
-## PROJECT TITLE: CAPSTONE SALES DATA
+## PROJECT TITLE: HR DATA
 
 ----
 
@@ -92,6 +92,8 @@ Average Age = AVERAGE('HR data'[Age])
 - HR DASHBOARD
 
 ![image](https://github.com/user-attachments/assets/a7ebe032-9352-4f38-bebe-af5c56bfad75)
+
+![image](https://github.com/user-attachments/assets/71aa46a4-79b1-4f22-8226-c4e23ec6fb4e)
 
 
 
