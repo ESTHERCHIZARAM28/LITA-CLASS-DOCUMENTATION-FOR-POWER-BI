@@ -124,6 +124,16 @@ Average Age = AVERAGE('HR data'[Age])
 
 
 ### INFERENCES
+1. ATTRITION RATE BY EDUCATIONAL FIELD: The Human Resources has the highest attrition rate of 26% followed by Technical Degree which have attrition rate of 22%. The Educational field with the lowest attrition rate is Others with attrition rate of 13%.
 
+2.CURRENT EMPLOYEE : Life science has the highest number of current employee of 517, followed by Medicals with current employee of 401. The least is the the Human Resources with current employee of 20.
+
+3. SUM OF ATTRITION BY GENDER : The male gender has the highest count of attrition of 150 while the female attrition count is 87.
+
+4.SUM OF ATTRITION COUNT BY DEPARTMENT: The R&D Department has the highest attrition count of 133. Secondly, is the Sales Department with attrition count of 92 and the least is the HR Department with attrition count of 12.
+
+
+### CONCLUSION
+In summary, the attrition count is at a high rate in the Human Resources Educational field, Male Gender in the organization and the R&D Department.
 
 
