@@ -116,8 +116,8 @@ Average Age = AVERAGE('HR data'[Age])
 
 - OTHERS
 
+![image](https://github.com/user-attachments/assets/2e26cda7-e62f-41e7-9286-f9cba33afa72)
 
-
-
+- TECHNICAL DEGREE
 
 
