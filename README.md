@@ -102,7 +102,12 @@ Average Age = AVERAGE('HR data'[Age])
 
 ![image](https://github.com/user-attachments/assets/fb2d58c1-4de5-4079-b97b-d864d87a1711)
 
-- LIFE SCIENCE
+- LIFE SCIENCES
+
+![image](https://github.com/user-attachments/assets/8ddbc174-6cf4-4023-bf76-2e417a1eb6cb)
+
+- MARKETING
+
 
 
 
