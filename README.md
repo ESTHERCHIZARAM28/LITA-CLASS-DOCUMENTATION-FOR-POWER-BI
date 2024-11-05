@@ -120,4 +120,10 @@ Average Age = AVERAGE('HR data'[Age])
 
 - TECHNICAL DEGREE
 
+![image](https://github.com/user-attachments/assets/417be04b-f958-4668-b523-187d791e1dac)
+
+
+### INFERENCES
+
+
 
